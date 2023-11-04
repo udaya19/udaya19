@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @udaya19
 - 👀 I’m interested in MERN stack web development
 - 🌱 I’m currently learning Node.js, React
-- I am an aspiring blockchain developer
+- I am a blockchain developer
 
 
 <!---
